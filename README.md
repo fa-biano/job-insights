@@ -1,0 +1,3 @@
+# 💡 Projeto Job Insights!
+
+## Readme em construção...
