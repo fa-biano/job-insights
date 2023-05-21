@@ -18,7 +18,7 @@ O desenvolvimento desse projeto foi realizado durante o curso de Desenvolvimento
 
 ## 🔥 Tecnologias utilizadas:
 
-  * Pyhton
+  * Python
   * Pytest
   * Flask
   * Jinja  
